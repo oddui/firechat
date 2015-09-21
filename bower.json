@@ -19,10 +19,10 @@
     "websocket",
     "synchronization"
   ],
-  "main": "dist/firechat.js",
+  "main": "src/js/firechat.js",
   "ignore": [
     "**/.*",
-    "src",
+    "assets",
     "examples",
     "node_modules",
     "bower_components",
